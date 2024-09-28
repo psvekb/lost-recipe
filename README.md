@@ -3,4 +3,5 @@
 - [Банановые панкейки](banana.md)
 - [Картофель «Айдахо»](aidaho.md)
 - [Сырники из творога](cheese_pancakes.md)
-- [Американские блины](amerikanskie-bliny.md.md)
+- [Американские блины](amerikanskie-bliny.md)
+- [Классическая шарлотка](klassicheskaja-sharlotka.md)
